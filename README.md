@@ -6,4 +6,4 @@ __1. Project overview__
 
 __Resources__
 
-Interactive report (Power BI file): 1.pbix
+Interactive report (Power BI file): https://github.com/TobiasMazan/Sales-data-visualization-demo-project/blob/c5a07858a5bff88b7049400d1d2a83d3fad0d644/1.pbix
