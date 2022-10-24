@@ -6,4 +6,4 @@ __1. Project overview__
 
 __Resources__
 
-Interactive report (Power BI file):
+Interactive report (Power BI file): 1.pbix
